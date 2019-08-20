@@ -27,6 +27,7 @@ high resolution
 ![high](images/tr_high.PNG)
 
 High redolution using gan
+
 ![gan](images/tr_high_gan.PNG)
 
 High resolution using Bicubic 
@@ -45,6 +46,7 @@ high resolution
 ![high](images/te_high.PNG)
 
 High redolution using gan
+
 ![gan](images/te_high_gan.PNG)
 
 High resolution using Bicubic 
