@@ -18,24 +18,38 @@ I have used coco dataset. A total of 800 high resolution images are used for tra
 ## Results
 **On Training images**
 
-Low resolution image---high resolution
+Low resolution image
 
-![low](images/tr_low.PNG)  ![high](images/tr_high.PNG)
+![low](images/tr_low.PNG)
 
-High redolution using gan-------------------------------------------------------------------High resolution using Bicubic 
+high resolution
 
-![gan](images/tr_high_gan.PNG) ![bi](images/tr_high_bi.PNG)
+![high](images/tr_high.PNG)
+
+High redolution using gan
+![gan](images/tr_high_gan.PNG)
+
+High resolution using Bicubic 
+
+![bi](images/tr_high_bi.PNG)
 
 
 **On Test images**
 
-Low resolution image---high resolution
+Low resolution image
 
-![low](images/te_low.PNG)  ![high](images/te_high.PNG)
+![low](images/te_low.PNG)
 
-High redolution using gan-------------------------------------------------------------------High resolution using Bicubic 
+high resolution
 
-![gan](images/te_high_gan.PNG) ![bi](images/te_high_bi.PNG)
+![high](images/te_high.PNG)
+
+High redolution using gan
+![gan](images/te_high_gan.PNG)
+
+High resolution using Bicubic 
+
+![bi](images/te_high_bi.PNG)
 
 ## Acknowledgment
 
