@@ -10,7 +10,7 @@ I have used coco dataset. A total of 800 high resolution images are used for tra
 
 **Model Architecture**
 
-![model](model.png)
+![model](images/model.png)
 
 ##the image is taken from the original paper
 
